@@ -1,0 +1,12 @@
+os = 'Windows Vista', 'Windows XP', 'Windows Server 2003', 'Windows Server 2008', 'Windows 7' ,'Windows Server 2008 R2'
+
+[milestones]
+    sp1 = 'Service Pack 1', 'SP1'
+    sp2 = 'Service Pack 2', 'SP2'
+    sp4 = 'Service Pack 4', 'SP4'
+    sp3 =  'SP3', 'Service Pack 3'
+
+[architectres]
+    x86 = 'x86', '32-bit'
+    x64 = 'x64', '64-bit'
+    'IA-64' = 'IA-64', 'Itanium'
